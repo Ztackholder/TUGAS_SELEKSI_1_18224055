@@ -1,1 +1,1252 @@
-[]
+[
+  {
+    "coffee_name": "Flor Blanca Geisha Colombia",
+    "roaster": {
+      "name": "JBC Coffee Roasters",
+      "location": "Madison, Wisconsin"
+    },
+    "origin": {
+      "locality": "Las Toldas",
+      "region": "Huila Department",
+      "country": "Colombia"
+    },
+    "roast_level": "Medium-Light",
+    "agtron": "62/84",
+    "estimated_price": "$25.00/8 ounces",
+    "review": {
+      "score": 98,
+      "review_date": "2025-09",
+      "aroma": 10,
+      "acidity": 9,
+      "body": 9,
+      "flavor": 10,
+      "aftertaste": 10,
+      "blind_assessment": "Elegant, radiant, complex. Narcissus, Meyer lemon, passionfruit, bergamot and wild honey in aroma and cup, with a cocoa nib throughline supporting all. Delicately bright, sparkling acidity; silky, buoyant mouthfeel. The finish is long, resonant, and multi-layered, with complex fruit, floral, and sweet spice notes."
+    }
+  },
+  {
+    "coffee_name": "Ethiopia Mehbuba Guji",
+    "roaster": {
+      "name": "Red Rooster Coffee Roaster",
+      "location": "Floyd, Virginia"
+    },
+    "origin": {
+      "locality": "Haro Adam, Uraga, Guji Zone",
+      "region": "Oromia Region",
+      "country": "southern Ethiopia"
+    },
+    "roast_level": "Medium-Light",
+    "agtron": "64/88",
+    "estimated_price": "$27.75/12 ounces",
+    "review": {
+      "score": 97,
+      "review_date": "2025-11",
+      "aroma": 9,
+      "acidity": 10,
+      "body": 9,
+      "flavor": 10,
+      "aftertaste": 9,
+      "blind_assessment": "Brilliantly transparent, enticingly layered. Bergamot, wild honey, star jasmine, cacao husk, ripe apricot and lemon verbena in aroma and cup. Luminous, lively acidity; satiny body. The finish is persistent, weaving citrus and floral brightness through sweet cocoa undertones."
+    }
+  },
+  {
+    "coffee_name": "Ethiopia Washed Guji Bishala G1 25/02",
+    "roaster": {
+      "name": "Kakalove Cafe",
+      "location": "Chia-Yi, Taiwan"
+    },
+    "origin": {
+      "locality": "Guji Zone",
+      "region": "Oromia Region",
+      "country": "southern Ethiopia"
+    },
+    "roast_level": "Medium-Light",
+    "agtron": "62/84",
+    "estimated_price": "NT $480/8 ounces",
+    "review": {
+      "score": 97,
+      "review_date": "2025-11",
+      "aroma": 9,
+      "acidity": 10,
+      "body": 9,
+      "flavor": 10,
+      "aftertaste": 9,
+      "blind_assessment": "Radiant and precise. Star jasmine, Meyer lemon, white peach, cane sugar, sandalwood in aroma and cup. Crystalline acidity — bright, transparent and finely structured; silky-smooth body. The finish is complex and lingering, balancing citrusy brightness with floral sweetness."
+    }
+  },
+  {
+    "coffee_name": "Kona Pointu®",
+    "roaster": {
+      "name": "Hula Daddy Kona Coffee",
+      "location": "Holualoa, Hawai’i"
+    },
+    "origin": {
+      "locality": "Holualoa",
+      "region": "North Kona growing district",
+      "country": "Hawai’i Island"
+    },
+    "roast_level": "Medium",
+    "agtron": "56/78",
+    "estimated_price": "$169.95/8 ounces",
+    "review": {
+      "score": 97,
+      "review_date": "2025-11",
+      "aroma": 10,
+      "acidity": 9,
+      "body": 9,
+      "flavor": 10,
+      "aftertaste": 9,
+      "blind_assessment": "Exquisitely structured and perfumed. Honeysuckle, lychee, sandalwood, panela, bergamot in the aroma and cup. Silky, buoyant mouthfeel; floral-saturated, cocoa-tinged finish that persists with grace and clarity."
+    }
+  },
+  {
+    "coffee_name": "Tanzania Natural Gesha Neel & Kavita Vahora",
+    "roaster": {
+      "name": "Heady Cup Coffee Roasters",
+      "location": "McHenry, Illinois"
+    },
+    "origin": {
+      "locality": "Karatu District",
+      "region": "Arusha Region",
+      "country": "Tanzania"
+    },
+    "roast_level": "Medium",
+    "agtron": "60/78",
+    "estimated_price": "$50.00/12 ounces",
+    "review": {
+      "score": 96,
+      "review_date": "2025-10",
+      "aroma": 9,
+      "acidity": 9,
+      "body": 9,
+      "flavor": 10,
+      "aftertaste": 9,
+      "blind_assessment": "Lushly aromatic and richly layered. Passionfruit, candied violet, bergamot, cocoa, and raw honey in aroma and cup. Juicy-bright acidity; silky, nectar-like mouthfeel. The finish is long and floral-toned, with fruit and cocoa sweetness persisting deep into the long."
+    }
+  },
+  {
+    "coffee_name": "Kaʻū Morning Glory",
+    "roaster": {
+      "name": "Big Island Coffee Roasters",
+      "location": "Hilo, Hawai’i Island, Hawai’i"
+    },
+    "origin": {
+      "locality": "Kaʻū growing region",
+      "region": "Hawai’i Island",
+      "country": "Hawai’i"
+    },
+    "roast_level": "Medium-Light",
+    "agtron": "62/84",
+    "estimated_price": "$39.00/10 ounces",
+    "review": {
+      "score": 97,
+      "review_date": "2025-05",
+      "aroma": 10,
+      "acidity": 9,
+      "body": 9,
+      "flavor": 10,
+      "aftertaste": 9,
+      "blind_assessment": "Lushly sweet, rich-toned, balanced. Cocoa nib, gardenia, honeydew melon, sandalwood, allspice in aroma and cup. Juicy, sparkling acidity; vibrant, satiny-smooth mouthfeel. Resonant, perfumed, engaging and very long finish."
+    }
+  },
+  {
+    "coffee_name": "Taiwan Natural Alishan Lalauya Zou Zhu Yuan Gesha",
+    "roaster": {
+      "name": "Kakalove Cafe",
+      "location": "Chia-Yi, Taiwan"
+    },
+    "origin": {
+      "locality": "Alishan",
+      "region": "Chia-Yi",
+      "country": "Taiwan"
+    },
+    "roast_level": "Medium-Light",
+    "agtron": "62/84",
+    "estimated_price": "NT $1100/4 ounces",
+    "review": {
+      "score": 96,
+      "review_date": "2025-08",
+      "aroma": 9,
+      "acidity": 9,
+      "body": 9,
+      "flavor": 10,
+      "aftertaste": 9,
+      "blind_assessment": "Intensely floral-driven, with jasmine, wisteria, and orange blossom up front, supported by layers of Meyer lemon, honey, and cocoa nib Vibrant, balanced acidity; very silky mouthfeel. Exceptionally long finish, echoing the sweet citrus and rich florals of the cup."
+    }
+  },
+  {
+    "coffee_name": "Ecuador La Papaya Geisha Natural",
+    "roaster": {
+      "name": "Utopian Coffee",
+      "location": "Fort Wayne, Indiana"
+    },
+    "origin": {
+      "locality": "Saraguro",
+      "region": "Loja",
+      "country": "Ecuador"
+    },
+    "roast_level": "Medium",
+    "agtron": "61/79",
+    "estimated_price": "$38.00/8 ounces",
+    "review": {
+      "score": 96,
+      "review_date": "2025-03",
+      "aroma": 9,
+      "acidity": 9,
+      "body": 9,
+      "flavor": 10,
+      "aftertaste": 9,
+      "blind_assessment": "Richly floral-toned, sweetly citrusy. Wisteria, magrut lime leaf, cocoa butter, pink grapefruit, graphite in aroma and cup. Juicy-bright, balanced acidity; plush, syrupy mouthfeel. Long, harmonious, integrated, satisfying finish."
+    }
+  },
+  {
+    "coffee_name": "Honduras Geisha E-F by Pedro Turcios",
+    "roaster": {
+      "name": "Coffee Cycle Roasting",
+      "location": "San Diego, California"
+    },
+    "origin": {
+      "locality": "Marcala",
+      "region": null,
+      "country": "Honduras"
+    },
+    "roast_level": "Medium",
+    "agtron": "58/76",
+    "estimated_price": "$30.00/150 grams",
+    "review": {
+      "score": 96,
+      "review_date": "2025-11",
+      "aroma": 9,
+      "acidity": 9,
+      "body": 9,
+      "flavor": 10,
+      "aftertaste": 9,
+      "blind_assessment": "Radiant and intricately layered. Notes of mango, pink grapefruit zest, honeysuckle, vanilla and cocoa nib in aroma and cup. Bright, winey acidity; viscous, buoyant mouthfeel. The finish is long and harmoniously sweet, carrying fruit and floral tones alongside subtle spice and chocolate."
+    }
+  },
+  {
+    "coffee_name": "Ethiopia Natural Durato Bombe",
+    "roaster": {
+      "name": "Magnolia Coffee",
+      "location": "Charlotte, North Carolina"
+    },
+    "origin": {
+      "locality": "Sidamo growing region",
+      "region": null,
+      "country": "southern Ethiopia"
+    },
+    "roast_level": "Medium",
+    "agtron": "58/74",
+    "estimated_price": "$26.00/12 ounces",
+    "review": {
+      "score": 96,
+      "review_date": "2025-11",
+      "aroma": 9,
+      "acidity": 9,
+      "body": 9,
+      "flavor": 10,
+      "aftertaste": 9,
+      "blind_assessment": "Lively, fruit-driven and opulent. Strawberry, mango, pink grapefruit zest, vanilla and cocoa powder in aroma and cup. Juicy, high-toned acidity; plush, syrupy mouthfeel. The finish is resonant and sweet, extending fruit and floral brightness over a deep chocolate undercurrent."
+    }
+  },
+  {
+    "coffee_name": "Colombia Sebastian Ramirez Washed Pink Bourbon",
+    "roaster": {
+      "name": "Heady Cup Coffee Roasters",
+      "location": "McHenry, Illinois"
+    },
+    "origin": {
+      "locality": "Quindio Department",
+      "region": null,
+      "country": "Colombia"
+    },
+    "roast_level": "Medium-Light",
+    "agtron": "62/84",
+    "estimated_price": "$30.00/12 ounces",
+    "review": {
+      "score": 97,
+      "review_date": "2025-03",
+      "aroma": 9,
+      "acidity": 10,
+      "body": 9,
+      "flavor": 10,
+      "aftertaste": 9,
+      "blind_assessment": "High-toned, lushly floral. Red currant, cocoa nib, wisteria, myrrh, pomelo in aroma and cup. Sparkling, balanced, very juicy acidity; taut, satiny mouthfeel. Long, harmonious, integrated and flavor-saturated finish."
+    }
+  },
+  {
+    "coffee_name": "Rwanda Kungahara Carbonic Maceration",
+    "roaster": {
+      "name": "Red Rooster Coffee Roaster",
+      "location": "Floyd, Virginia"
+    },
+    "origin": {
+      "locality": "Rustiro",
+      "region": null,
+      "country": "Rwanda"
+    },
+    "roast_level": "Medium-Light",
+    "agtron": "64/86",
+    "estimated_price": "$28.00/12 ounces",
+    "review": {
+      "score": 95,
+      "review_date": "2025-04",
+      "aroma": 9,
+      "acidity": 9,
+      "body": 9,
+      "flavor": 9,
+      "aftertaste": 9,
+      "blind_assessment": "Brightly sweet, richly tart, deep-toned. Bing cherry, lemongrass, pomelo, agave syrup, frankincense in aroma and cup. High-toned, juicy acidity; full, syrupy mouthfeel. Long, flavor-saturated, complex finish."
+    }
+  },
+  {
+    "coffee_name": "Guatemala El Injerto Legendary Geisha Los Pinos Washed El-05",
+    "roaster": {
+      "name": "Buon Caffe",
+      "location": "Taipei, Taiwan"
+    },
+    "origin": {
+      "locality": "La Libertad",
+      "region": "Huehuetenango Department",
+      "country": "Guatemala"
+    },
+    "roast_level": "Medium",
+    "agtron": "60/80",
+    "estimated_price": "NT $4569/8 ounces",
+    "review": {
+      "score": 97,
+      "review_date": "2025-11",
+      "aroma": 9,
+      "acidity": 10,
+      "body": 9,
+      "flavor": 10,
+      "aftertaste": 9,
+      "blind_assessment": "Radiant and intricately layered. Pink grapefruit zest, white peach, ginger blossom, raw honey and dark chocolate in aroma and cup. Acidity is shimmering and high-toned, body silky and buoyant. The finish is long, carrying citrus, stone fruit and floral sweetness into a resonant, chocolaty long."
+    }
+  },
+  {
+    "coffee_name": "Wilton Benitez Java",
+    "roaster": {
+      "name": "JBC Coffee Roasters",
+      "location": "Madison, Wisconsin"
+    },
+    "origin": {
+      "locality": "Piendamó",
+      "region": "Cauca Department",
+      "country": "Colombia"
+    },
+    "roast_level": "Medium",
+    "agtron": "60/76",
+    "estimated_price": "$26.00/8 ounces",
+    "review": {
+      "score": 97,
+      "review_date": "2025-11",
+      "aroma": 9,
+      "acidity": 10,
+      "body": 9,
+      "flavor": 10,
+      "aftertaste": 9,
+      "blind_assessment": "Aromatic and dazzling. Lychee, blood orange, star jasmine, dark honey, pink peppercorn in aroma and cup. The acidity is electric — bright, tensile and deeply integrated, lush, velour-like mouthfeel. The finish is endlessly layered with stone fruit, floral sweetness and spice dissolving into a honeyed long."
+    }
+  },
+  {
+    "coffee_name": "Panama Esmeralda Nano Nido Geisha Washed",
+    "roaster": {
+      "name": "GK Coffee",
+      "location": "Yilan, Taiwan"
+    },
+    "origin": {
+      "locality": "Cañas Verdes",
+      "region": "Boquete",
+      "country": "Panama"
+    },
+    "roast_level": "Medium-Light",
+    "agtron": "64/88",
+    "estimated_price": "NT $5,850/100 grams",
+    "review": {
+      "score": 97,
+      "review_date": "2025-10",
+      "aroma": 9,
+      "acidity": 10,
+      "body": 9,
+      "flavor": 10,
+      "aftertaste": 9,
+      "blind_assessment": "Dazzlingly floral, multilayered, exacting. Star jasmine, passionfruit, bergamot, cocoa nib, wild honey in aroma and cup. Bright, integrated acidity; lush, silky mouthfeel. The finish is resonant and harmonious, carrying the full promise of the cup into the long."
+    }
+  },
+  {
+    "coffee_name": "Kenya Gondo Peaberry",
+    "roaster": {
+      "name": "Speedwell Coffee",
+      "location": "Plymouth, Massachusetts"
+    },
+    "origin": {
+      "locality": "Kihoya, Mathioya District",
+      "region": "Murang’a County",
+      "country": "Kenya"
+    },
+    "roast_level": "Medium",
+    "agtron": "58/80",
+    "estimated_price": "$19.00/12 ounces",
+    "review": {
+      "score": 96,
+      "review_date": "2025-05",
+      "aroma": 9,
+      "acidity": 9,
+      "body": 9,
+      "flavor": 10,
+      "aftertaste": 9,
+      "blind_assessment": "High-toned, sweetly savory. Pluot, cocoa nib, plumeria, candycap mushroom, wild honey in aroma and cup. Sparkling acidity; plush, satiny mouthfeel. Harmonious, integrated, satiating finish."
+    }
+  },
+  {
+    "coffee_name": "Panama Bambito Estate Geisha",
+    "roaster": {
+      "name": "Mostra Coffee",
+      "location": "San Diego, California"
+    },
+    "origin": {
+      "locality": "Volcan Baru",
+      "region": "Boquete growing region",
+      "country": "Panama"
+    },
+    "roast_level": "Medium-Light",
+    "agtron": "62/88",
+    "estimated_price": "$60.00/5 ounces",
+    "review": {
+      "score": 97,
+      "review_date": "2025-10",
+      "aroma": 10,
+      "acidity": 9,
+      "body": 9,
+      "flavor": 10,
+      "aftertaste": 9,
+      "blind_assessment": "Dazzling and crystalline. Frangipani, white peach, Meyer lemon, vanilla bean, and wild honey in aroma and cup. Lively, balanced acidity; silky, lilting mouthfeel. The finish is long and harmonious, with fruit and floral sweetness lingering gracefully."
+    }
+  },
+  {
+    "coffee_name": "Colombia El Origen Pink Bourbon Thermal Shock Washed",
+    "roaster": {
+      "name": "SÖT Coffee Roaster",
+      "location": "Osaka, Japan"
+    },
+    "origin": {
+      "locality": "Quindio Department",
+      "region": null,
+      "country": "Colombia"
+    },
+    "roast_level": "Medium-Light",
+    "agtron": "66/88",
+    "estimated_price": "$30.00/150 grams",
+    "review": {
+      "score": 96,
+      "review_date": "2025-11",
+      "aroma": 9,
+      "acidity": 9,
+      "body": 9,
+      "flavor": 10,
+      "aftertaste": 9,
+      "blind_assessment": "Radiant, lyrically complex. Tangerine, gardenia, lychee, white tea, and sugarcane in aroma and cup. Crisp, sparkling acidity; voluptuously silky body. The finish is long, floral, fruit-layered and resonant."
+    }
+  },
+  {
+    "coffee_name": "Panama Hacienda La Esmeralda Nano Geisha Nido FC",
+    "roaster": {
+      "name": "Euphora Coffee",
+      "location": "Taipei, Taiwan"
+    },
+    "origin": {
+      "locality": "Cañas Verdes",
+      "region": "Boquete",
+      "country": "Panama"
+    },
+    "roast_level": "Medium-Light",
+    "agtron": "64/88",
+    "estimated_price": "$170/120 grams",
+    "review": {
+      "score": 97,
+      "review_date": "2025-08",
+      "aroma": 10,
+      "acidity": 9,
+      "body": 9,
+      "flavor": 10,
+      "aftertaste": 9,
+      "blind_assessment": "Lushly floral-toned, engagingly complex. Guava, star jasmine, magrut lime, cocoa nib, hyssop in aroma and cup. Sparkling, phosphoric acidity; vibrant, syrupy mouthfeel. Decadently long, satiating finish."
+    }
+  },
+  {
+    "coffee_name": "Zambia Katheshi Estate Anaerobic Natural",
+    "roaster": {
+      "name": "City Boy Coffee",
+      "location": "Long Island City, New York"
+    },
+    "origin": {
+      "locality": "Northern Province",
+      "region": null,
+      "country": "Zambia"
+    },
+    "roast_level": "Medium-Light",
+    "agtron": "64/88",
+    "estimated_price": "$22.00/12 ounces",
+    "review": {
+      "score": 94,
+      "review_date": "2025-07",
+      "aroma": 9,
+      "acidity": 9,
+      "body": 9,
+      "flavor": 9,
+      "aftertaste": 8,
+      "blind_assessment": "Bright and juicy-sweet. Lilac, pomegranate, wine barrel, blueberry yogurt, dark chocolate in aroma and cup. Sweetly tart, juicy acidity; syrupy-smooth mouthfeel. Lilac and pomegranate comingle with dark chocolate in the crisp finish."
+    }
+  },
+  {
+    "coffee_name": "Kenya Nyeri AA",
+    "roaster": {
+      "name": "Roadmap CoffeeWorks",
+      "location": "Lexington, Virginia"
+    },
+    "origin": {
+      "locality": "Nyeri growing region",
+      "region": null,
+      "country": "south-central Kenya"
+    },
+    "roast_level": "Medium",
+    "agtron": "58/78",
+    "estimated_price": "$25.00/12 ounces",
+    "review": {
+      "score": 96,
+      "review_date": "2025-08",
+      "aroma": 9,
+      "acidity": 9,
+      "body": 9,
+      "flavor": 10,
+      "aftertaste": 9,
+      "blind_assessment": "Dazzlingly bright, sweet-tart, and layered. Black currant, sage, cocoa nib, magnolia, magrut lime, maple syrup in aroma and cup. Juicy, vibrant structure with crisp, sweetly tart acidity; plush, syrupy-smooth mouthfeel. The finish is resonant and long, highlighting citrus, currant, and floral tones with a grounding throughline of cocoa nib."
+    }
+  },
+  {
+    "coffee_name": "Jamaica Blue Mountain Coffea Diversa Reserve Geisha + Bourbon Rey",
+    "roaster": {
+      "name": "Paradise Roasters",
+      "location": "Hilo, Hawai’i Island, Hawai’i"
+    },
+    "origin": {
+      "locality": "St. Andrew Parish",
+      "region": null,
+      "country": "Jamaica"
+    },
+    "roast_level": "Medium-Light",
+    "agtron": "62/84",
+    "estimated_price": "$50.00/4 ounces",
+    "review": {
+      "score": 94,
+      "review_date": "2025-11",
+      "aroma": 9,
+      "acidity": 9,
+      "body": 9,
+      "flavor": 9,
+      "aftertaste": 8,
+      "blind_assessment": "Balanced, elegant and quietly luxurious. Notes of Meyer lemon, almond brittle, pink rose, baking chocolate and plum in aroma and cup. Bright, balanced acidity; Silky-smooth body. The finish highlights sweet citrus and floral tones."
+    }
+  },
+  {
+    "coffee_name": "Guatemala Finca La Bolsa Natural Pacamara",
+    "roaster": {
+      "name": "Chuck's Roast",
+      "location": "San Diego, California"
+    },
+    "origin": {
+      "locality": "La Libertad",
+      "region": "Huehuetenango Department",
+      "country": "Guatemala"
+    },
+    "roast_level": "Medium",
+    "agtron": "58/80",
+    "estimated_price": "$18.00/150 grams",
+    "review": {
+      "score": 95,
+      "review_date": "2025-07",
+      "aroma": 9,
+      "acidity": 9,
+      "body": 9,
+      "flavor": 9,
+      "aftertaste": 9,
+      "blind_assessment": "Complex, fruit-forward, deep-toned. Black cherry, cantaloupe, wild honey, blood orange, lemon balm in aroma and cup. Juicy-bright, balanced acidity; vibrant, satiny-smooth mouthfeel. Resonant, long, integrated, harmonious finish."
+    }
+  },
+  {
+    "coffee_name": "Panama Volcan Valley Thermolic Gesha",
+    "roaster": {
+      "name": "Press Coffee",
+      "location": "Phoenix, Arizona"
+    },
+    "origin": {
+      "locality": "Volcán Valley",
+      "region": null,
+      "country": "Panama"
+    },
+    "roast_level": "Medium-Light",
+    "agtron": "63/80",
+    "estimated_price": "$56.00/6 ounces",
+    "review": {
+      "score": 96,
+      "review_date": "2025-11",
+      "aroma": 9,
+      "acidity": 9,
+      "body": 9,
+      "flavor": 10,
+      "aftertaste": 9,
+      "blind_assessment": "Seductive and perfumed, with layered sweetness and definition. Pink grapefruit, mango, orange blossom, cocoa nib and sugarcane in aroma and cup. Vibrantly high-toned acidity; silky, buoyant mouthfeel. The finish is long and layered, carrying fruit, floral and cocoa notes in elegant succession."
+    }
+  },
+  {
+    "coffee_name": "Finca San Ramon Maragogype",
+    "roaster": {
+      "name": "El Gran Cafe",
+      "location": "Antigua Guatemala, Guatemala"
+    },
+    "origin": {
+      "locality": "Antigua Guatemala",
+      "region": "Sacatepéquez",
+      "country": "Guatemala"
+    },
+    "roast_level": "Medium",
+    "agtron": "51/72",
+    "estimated_price": "$20.00/12 ounces",
+    "review": {
+      "score": 94,
+      "review_date": "2025-10",
+      "aroma": 9,
+      "acidity": 8,
+      "body": 9,
+      "flavor": 9,
+      "aftertaste": 9,
+      "blind_assessment": "Wide-ranging and juicy. Guava, milk chocolate, cashew, clover honey, Meyer lemon zest in aroma and cup. Briskly sweet acidity; full, creamy-smooth mouthfeel. The finish is long and gently floral, supported by notes of tropical fruit."
+    }
+  },
+  {
+    "coffee_name": "Costa Rica Mirazù Catajo Geisha Blend",
+    "roaster": {
+      "name": "GK Coffee",
+      "location": "Yilan, Taiwan"
+    },
+    "origin": {
+      "locality": "Tarrazú",
+      "region": null,
+      "country": "Costa Rica"
+    },
+    "roast_level": "Medium",
+    "agtron": "60/80",
+    "estimated_price": "NT $680/200 grams",
+    "review": {
+      "score": 96,
+      "review_date": "2025-10",
+      "aroma": 9,
+      "acidity": 9,
+      "body": 9,
+      "flavor": 10,
+      "aftertaste": 9,
+      "blind_assessment": "Richly aromatic, flavor-saturated. Honeysuckle, raspberry, candied kumquat, cocoa nib, vanilla bean in aroma and cup. Juicy, complex acidity; plush syrupy mouthfeel. The finish is long and multilayered, carrying berry and citrus sweetness soft cocoa nib undertones."
+    }
+  },
+  {
+    "coffee_name": "Peru Oscar Abad Geisha",
+    "roaster": {
+      "name": "Utopian Coffee",
+      "location": "Fort Wayne, Indiana"
+    },
+    "origin": {
+      "locality": "San Ignacio",
+      "region": "Cajamarca Department",
+      "country": "Peru"
+    },
+    "roast_level": "Medium",
+    "agtron": "60/78",
+    "estimated_price": "$24.00/8 ounces",
+    "review": {
+      "score": 95,
+      "review_date": "2025-10",
+      "aroma": 9,
+      "acidity": 9,
+      "body": 9,
+      "flavor": 9,
+      "aftertaste": 9,
+      "blind_assessment": "Vibrant, fruit-saturated, and candy-sweet. Pineapple, mango, cocoa nib, jasmine candy, Meyer lemon zest in aroma and cup. Juicy, balanced acidity; plush, syrupy mouthfeel. The finish is long and resonant, carrying tropical fruit brightness and confectionery sweetness into the chocolaty long."
+    }
+  },
+  {
+    "coffee_name": "El Salvador Unicorn",
+    "roaster": {
+      "name": "Drink Coffee Do Stuff",
+      "location": "Truckee, Califoria"
+    },
+    "origin": {
+      "locality": "El Bálsamo Quetzaltepec",
+      "region": null,
+      "country": "El Salvador"
+    },
+    "roast_level": "Medium",
+    "agtron": "58/78",
+    "estimated_price": "$26.00/11 ounces",
+    "review": {
+      "score": 95,
+      "review_date": "2025-10",
+      "aroma": 9,
+      "acidity": 9,
+      "body": 9,
+      "flavor": 9,
+      "aftertaste": 9,
+      "blind_assessment": "Sweetly fruit-forward, harmoniously rich. Red currant, dark chocolate, brown sugar, tamarind, candied violet in aroma and cup. Crisp, winey acidity; syrupy-smooth body. The finish is long and layered, centering fruit and floral tones over a deep chocolate base into the long."
+    }
+  },
+  {
+    "coffee_name": "Colombia Wilder Lazo Pink Bourbon 60-Hour Anaerobic Honey",
+    "roaster": {
+      "name": "Big Shoulders Coffee",
+      "location": "Chicago, Illinois"
+    },
+    "origin": {
+      "locality": "Huila Department",
+      "region": null,
+      "country": "Colombia"
+    },
+    "roast_level": "Medium",
+    "agtron": "59/80",
+    "estimated_price": "$24.00/115 grams",
+    "review": {
+      "score": 96,
+      "review_date": "2025-11",
+      "aroma": 9,
+      "acidity": 9,
+      "body": 9,
+      "flavor": 10,
+      "aftertaste": 9,
+      "blind_assessment": "Expressive, fruit-forward, intricately sweet. Notes of dried raspberry, lychee, tea rose, panela, cocoa nib in aroma and cup. Juicy, high-toned acidity; syrupy, very buoyant mouthfeel. The finish is long and saturated with red fruit and floral sweetness."
+    }
+  },
+  {
+    "coffee_name": "Moa’ula Ohana Blend",
+    "roaster": {
+      "name": "Big Island Coffee Roasters",
+      "location": "Hilo, Hawai’i Island, Hawai’i"
+    },
+    "origin": {
+      "locality": "Kaʻū growing region",
+      "region": "Hawai’i Island",
+      "country": "Hawai’i"
+    },
+    "roast_level": "Medium",
+    "agtron": "56/79",
+    "estimated_price": "$42.00/10 ounces",
+    "review": {
+      "score": 96,
+      "review_date": "2025-10",
+      "aroma": 9,
+      "acidity": null,
+      "body": 9,
+      "flavor": 9,
+      "aftertaste": 9,
+      "blind_assessment": "Evaluated as espresso. Deeply sweet, floral- and fruit-driven. Vanilla orchid, red currant, dark chocolate, brown sugar, almond butter in aroma and small cup. Richly syrupy mouthfeel; integrated, harmonious, richly chocolaty-floral finish. In cappuccino format, lush and dessert-like, with chocolate fudge, currant compote, and floral honey weaving a luxurious balance."
+    }
+  },
+  {
+    "coffee_name": "Kenya Baragwi Guama AA Washed",
+    "roaster": {
+      "name": "Bear Lake Coffee",
+      "location": "Barronett, Wisconsin"
+    },
+    "origin": {
+      "locality": "Guama Village",
+      "region": "Kirinyaga County",
+      "country": "Kenya"
+    },
+    "roast_level": "Medium-Light",
+    "agtron": "61/83",
+    "estimated_price": "$21.00/12 ounces",
+    "review": {
+      "score": 95,
+      "review_date": "2025-03",
+      "aroma": 9,
+      "acidity": 9,
+      "body": 9,
+      "flavor": 9,
+      "aftertaste": 9,
+      "blind_assessment": "Deep-toned, richly sweet-savory. Dark chocolate, boysenberry, almond brittle, sorrel, star jasmine in aroma and cup. Juicy-bright acidity; vibrant, syrupy mouthfeel. Harmonious, integrated, long-lasting finish."
+    }
+  },
+  {
+    "coffee_name": "Made in Heaven Espresso Blend",
+    "roaster": {
+      "name": "Euphora Coffee",
+      "location": "Taipei, Taiwan"
+    },
+    "origin": {
+      "locality": null,
+      "region": null,
+      "country": "Panama; Colombia; Guatemala; Costa Rica; Ethiopia"
+    },
+    "roast_level": "Medium",
+    "agtron": "57/81",
+    "estimated_price": "$17.00/8 ounces",
+    "review": {
+      "score": 96,
+      "review_date": "2025-09",
+      "aroma": 9,
+      "acidity": null,
+      "body": 9,
+      "flavor": 9,
+      "aftertaste": 9,
+      "blind_assessment": "Evaluated as espresso. Resonant and lush. In the straight shot, dark chocolate, black cherry, almond butter, sandalwood, and molasses. Syrupy-smooth mouthfeel; long, harmonious, flavor-saturated finish. In cappuccino format, fruit and chocolate bloom into confectionery harmony reminiscent of cherry truffle and spiced fudge."
+    }
+  },
+  {
+    "coffee_name": "Colombia El Pijao Divisa CM Java",
+    "roaster": {
+      "name": "Corvus Coffee",
+      "location": "Denver, Colorado"
+    },
+    "origin": {
+      "locality": "Pijao",
+      "region": "Quindio Department",
+      "country": "Colombia"
+    },
+    "roast_level": "Medium-Light",
+    "agtron": "66/91",
+    "estimated_price": "$33.00/8 ounces",
+    "review": {
+      "score": 96,
+      "review_date": "2025-07",
+      "aroma": 9,
+      "acidity": 9,
+      "body": 9,
+      "flavor": 10,
+      "aftertaste": 9,
+      "blind_assessment": "Tropical-toned, lavishly floral. Passionfruit, orange blossom, maple syrup, turmeric, roasted almond in aroma and cup. Sweet-tart structure with juicy, tropical acidity; plush, creamy mouthfeel. The finish highlights passionfruit and roasted almond, deepening to turmeric and orange blossom in the long."
+    }
+  },
+  {
+    "coffee_name": "Colombia Nestor Lasso Natural",
+    "roaster": {
+      "name": "Revel Coffee",
+      "location": "Billings, Montana"
+    },
+    "origin": {
+      "locality": "Huila Department",
+      "region": null,
+      "country": "Colombia"
+    },
+    "roast_level": "Medium",
+    "agtron": "58/80",
+    "estimated_price": "$26.00/8 ounces",
+    "review": {
+      "score": 96,
+      "review_date": "2025-10",
+      "aroma": 9,
+      "acidity": 9,
+      "body": 9,
+      "flavor": 10,
+      "aftertaste": 9,
+      "blind_assessment": "Opulent, fruit-saturated, vibrant. Passionfruit, raspberry liqueur, star jasmine, dark chocolate, and sugarcane in aroma and cup. Sparkling, sweet-tart acidity; plush, syrupy mouthfeel. The finish is long and resonant, carrying berry and floral sweetness with a grounding chocolate depth."
+    }
+  },
+  {
+    "coffee_name": "Colombia Hacienda La Pradera Mokka",
+    "roaster": {
+      "name": "SkyTop Coffee",
+      "location": "Manlius, New York"
+    },
+    "origin": {
+      "locality": "Santander Department",
+      "region": null,
+      "country": "Colombia"
+    },
+    "roast_level": "Medium-Light",
+    "agtron": "64/88",
+    "estimated_price": "$42.00/12 ounces",
+    "review": {
+      "score": 94,
+      "review_date": "2025-01",
+      "aroma": 9,
+      "acidity": 9,
+      "body": 9,
+      "flavor": 9,
+      "aftertaste": 8,
+      "blind_assessment": "Sweetly spice-toned, crisply chocolaty. Clove, Meyer lemon zest, magnolia, baking chocolate, agave syrup in aroma and cup. Bright, juicy acidity; plush, satiny mouthfeel. Finish consolidates to notes of baking chocolate and clove."
+    }
+  },
+  {
+    "coffee_name": "Costa Rica Las Lajas Perla Negra",
+    "roaster": {
+      "name": "Durango Coffee Company",
+      "location": "Durango, Colorado"
+    },
+    "origin": {
+      "locality": "Sabanilla de Alajuela growing region",
+      "region": null,
+      "country": "Costa Rica"
+    },
+    "roast_level": "Medium",
+    "agtron": "58/82",
+    "estimated_price": "$19.95/12 ounces",
+    "review": {
+      "score": 95,
+      "review_date": "2025-06",
+      "aroma": 9,
+      "acidity": 9,
+      "body": 9,
+      "flavor": 9,
+      "aftertaste": 9,
+      "blind_assessment": "High-toned, richly sweet-tart. Wild honey, raspberry jam, dark chocolate, lemon verbena, sandalwood in aroma and cup. Crisply sweet-tart, malic (apple-like) acidity; plush, very syrupy-smooth mouthfeel. Long, harmonious, flavor-saturated finish."
+    }
+  },
+  {
+    "coffee_name": "El Salvador Loma La Gloria Unicorn Natural",
+    "roaster": {
+      "name": "Old World Coffee Roasters",
+      "location": "Reno, Nevada"
+    },
+    "origin": {
+      "locality": "El Bálsamo",
+      "region": "Quetzaltepec growing region",
+      "country": "El Salvador"
+    },
+    "roast_level": "Medium-Light",
+    "agtron": "64/88",
+    "estimated_price": "$29.00/10 ounces",
+    "review": {
+      "score": 95,
+      "review_date": "2025-02",
+      "aroma": 9,
+      "acidity": 9,
+      "body": 9,
+      "flavor": 9,
+      "aftertaste": 9,
+      "blind_assessment": "Juicy-bright, complex, rich-toned. Pomelo, magnolia, cocoa nib, raspberry jam, sandalwood in aroma and cup. Sparkling acidity; full, syrupy-smooth mouthfeel. Resonant, long, satiating finish."
+    }
+  },
+  {
+    "coffee_name": "Sulawesi Bolokan",
+    "roaster": {
+      "name": "Rusty Dog Coffee",
+      "location": "Madison, Wisconsin"
+    },
+    "origin": {
+      "locality": "Bolokan Valley, Tana Toraja Regency",
+      "region": "Sulawesi",
+      "country": "Indonesia"
+    },
+    "roast_level": "Medium",
+    "agtron": "58/80",
+    "estimated_price": "$29.00/12 ounces",
+    "review": {
+      "score": 94,
+      "review_date": "2025-08",
+      "aroma": 9,
+      "acidity": 8,
+      "body": 9,
+      "flavor": 9,
+      "aftertaste": 9,
+      "blind_assessment": "Earth-toned, subtly floral. Plum, fresh-cut cedar, muscovado sugar, coriander seed, dark molasses in aroma and cup. Gently tart structure with balanced, winey acidity; dense, satiny mouthfeel. The finish emphasizes plum and molasses, with a faint echo of spice and floral wood."
+    }
+  },
+  {
+    "coffee_name": "Ethiopia Guji Blosselle Geisha Washed G1",
+    "roaster": {
+      "name": "1980 CAFE",
+      "location": "Tainan, Taiwan"
+    },
+    "origin": {
+      "locality": "Guji Zone",
+      "region": "Oromia region",
+      "country": "southern Ethiopia"
+    },
+    "roast_level": "Medium-Light",
+    "agtron": "64/88",
+    "estimated_price": "NT $670/227 grams",
+    "review": {
+      "score": 96,
+      "review_date": "2025-07",
+      "aroma": 9,
+      "acidity": 9,
+      "body": 9,
+      "flavor": 10,
+      "aftertaste": 9,
+      "blind_assessment": "Ethereal, immersive. White tea, lychee, Meyer lemon, Asian pear, ginger blossom in aroma and cup. Crisp, yuzu-like acidity; very silky-smooth mouthfeel. Comprehensive finish that carries over all the notes of the cup into the long."
+    }
+  },
+  {
+    "coffee_name": "Ka‘ū Geisha Champagne Natural",
+    "roaster": {
+      "name": "Paradise Roasters",
+      "location": "Hilo, Hawai’i"
+    },
+    "origin": {
+      "locality": "Ka‘ū growing region",
+      "region": null,
+      "country": "Hawai’i Island"
+    },
+    "roast_level": "Medium",
+    "agtron": "60/78",
+    "estimated_price": "$200.00/4 ounces",
+    "review": {
+      "score": 96,
+      "review_date": "2025-09",
+      "aroma": 9,
+      "acidity": 9,
+      "body": 9,
+      "flavor": 10,
+      "aftertaste": 9,
+      "blind_assessment": "Exuberant, exquisitely articulated. Notes of concord grape, lychee, star jasmine, honeycomb, and cocoa nib in aroma and cup. Structure is bright yet seamless, with a lively, sparkling acidity; plush, silky mouthfeel. The finish is long and perfumed, carrying sweet fruit and floral notes deep into the long."
+    }
+  },
+  {
+    "coffee_name": "Colombia Acevedo Huila Bourbon Aji Thermo-Shock",
+    "roaster": {
+      "name": "Klatch Coffee",
+      "location": "Los Angeles, California"
+    },
+    "origin": {
+      "locality": "Huila Department",
+      "region": null,
+      "country": "Colombia"
+    },
+    "roast_level": "Medium",
+    "agtron": "59/79",
+    "estimated_price": "$24.95/170 grams",
+    "review": {
+      "score": 95,
+      "review_date": "2025-11",
+      "aroma": 9,
+      "acidity": 9,
+      "body": 9,
+      "flavor": 9,
+      "aftertaste": 9,
+      "blind_assessment": "Floral and spice-tinged aromatics lead into flavors of starfruit, hibiscus, panela, sweet basil and cocoa nib. The acidity is juicy and refined, the body silky and cohesive. Long, resonant finish with layered fruit and gentle spice."
+    }
+  },
+  {
+    "coffee_name": "Brazil Vinhal Grape Starfruit",
+    "roaster": {
+      "name": "Intuition Coffee",
+      "location": "Peoria, Illinois"
+    },
+    "origin": {
+      "locality": "Cerrado Mineiro",
+      "region": "Minas Gerais",
+      "country": "Brazil"
+    },
+    "roast_level": "Medium",
+    "agtron": "59/77",
+    "estimated_price": "$21.00/12 ounces",
+    "review": {
+      "score": 94,
+      "review_date": "2025-05",
+      "aroma": 9,
+      "acidity": 8,
+      "body": 9,
+      "flavor": 9,
+      "aftertaste": 9,
+      "blind_assessment": "Gently fruit-toned, crisply chocolaty. Kiwi, lemon verbena, cocoa nib, nougat, myrrh in aroma and cup. Gently bright acidity; very full, satiny-smooth mouthfeel. Harmonious, resonant, rich-toned finish."
+    }
+  },
+  {
+    "coffee_name": "Malaysia Liberica Anaerobic Natural",
+    "roaster": {
+      "name": "Ghost Bird Coffee",
+      "location": "Kuala Lumpur, Malaysia"
+    },
+    "origin": {
+      "locality": "Simpang Renggam",
+      "region": "Johor State",
+      "country": "Malaysia"
+    },
+    "roast_level": "Medium-Light",
+    "agtron": "58/93",
+    "estimated_price": "RM85/80 grams",
+    "review": {
+      "score": 92,
+      "review_date": "2025-06",
+      "aroma": 9,
+      "acidity": 8,
+      "body": 8,
+      "flavor": 9,
+      "aftertaste": 8,
+      "blind_assessment": "An intense, densely complex, rather hectic coffee. Spice/herb medley (cardamom, lavender, patchouli, more), cedar, grape candy, hazelnut in aroma and cup. Profoundly sweet-savory in structure, without a hint of brightness or lift but still generous in range of sensation. Satiny in mouthfeel; in the finish flavor consolidates to a dense, rich sweetness."
+    }
+  },
+  {
+    "coffee_name": "Fair-Trade Ethiopian",
+    "roaster": {
+      "name": "Mystic Monk Coffee",
+      "location": "Clark, Wyoming"
+    },
+    "origin": {
+      "locality": null,
+      "region": null,
+      "country": "Ethiopia"
+    },
+    "roast_level": "Medium-Light",
+    "agtron": "62/80",
+    "estimated_price": "$14.95/12 ounces",
+    "review": {
+      "score": 94,
+      "review_date": "2025-08",
+      "aroma": 9,
+      "acidity": 9,
+      "body": 9,
+      "flavor": 9,
+      "aftertaste": 8,
+      "blind_assessment": "Delicately floral and fruit-toned. Jasmine, lemon curd, ripe blueberry, cocoa nib, sandalwood in aroma and cup. Juicy, lively structure with bright but balanced acidity; plush, satiny mouthfeel. The finish is long and layered, carrying citrus and berry sweetness over a gentle cocoa base."
+    }
+  },
+  {
+    "coffee_name": "Colombia San Adolfo Huila",
+    "roaster": {
+      "name": "Jaunt Coffee Roasters",
+      "location": "San Diego, California"
+    },
+    "origin": {
+      "locality": "Huila Department",
+      "region": null,
+      "country": "Colombia"
+    },
+    "roast_level": "Medium-Light",
+    "agtron": "65/87",
+    "estimated_price": "$40.00/8 ounces",
+    "review": {
+      "score": 95,
+      "review_date": "2025-04",
+      "aroma": 9,
+      "acidity": 9,
+      "body": 9,
+      "flavor": 9,
+      "aftertaste": 9,
+      "blind_assessment": "Delicate, tropical, cocoa-toned. Cocoa nib, passion fruit, bergamot, amber, wild honey in aroma and cup. Juicy, malic acidity; smooth, very satiny mouthfeel. The finish fulfills the promise of the cup with rich aromatics that linger."
+    }
+  },
+  {
+    "coffee_name": "Yemen Ismaili",
+    "roaster": {
+      "name": "Lin Jen Wei’s Black Jar Coffee",
+      "location": "Taichung, Taiwan"
+    },
+    "origin": {
+      "locality": "Bani Ismail District",
+      "region": "Sana'a",
+      "country": "Yemen"
+    },
+    "roast_level": "Medium",
+    "agtron": "57/81",
+    "estimated_price": "NT $1200/227 grams",
+    "review": {
+      "score": 94,
+      "review_date": "2025-03",
+      "aroma": 9,
+      "acidity": 8,
+      "body": 9,
+      "flavor": 9,
+      "aftertaste": 9,
+      "blind_assessment": "Delicately fruity, deeply sweet. Dried mulberry, almond nougat, freesia, amber, pink grapefruit in aroma and cup. Brisk, winy acidity; full, creamy-smooth mouthfeel. Exceptionally long, fruit-forward, richly floral finish."
+    }
+  },
+  {
+    "coffee_name": "Alishan Geisha Washed",
+    "roaster": {
+      "name": "Zouzhouyuan Coffee Estate",
+      "location": "Alishan Township, Chia-yi County, Taiwan"
+    },
+    "origin": {
+      "locality": "Leye Village, Alishan Township",
+      "region": "Chia-yi County",
+      "country": "Taiwan"
+    },
+    "roast_level": "Medium-Light",
+    "agtron": "66/76",
+    "estimated_price": "NT $1000/114 grams",
+    "review": {
+      "score": 95,
+      "review_date": "2025-07",
+      "aroma": 9,
+      "acidity": 9,
+      "body": 9,
+      "flavor": 9,
+      "aftertaste": 9,
+      "blind_assessment": "High-toned, richly sweet. Bergamot, apricot, cocoa nib, star jasmine, pomelo in aroma and cup. Gently bright, floral acidity; lithe, silky, very viscous mouthfeel. Long, lingering, integrated and harmonious finish."
+    }
+  },
+  {
+    "coffee_name": "St. Helena Wranghams Estate",
+    "roaster": {
+      "name": "Sea Island Coffee",
+      "location": "London, England"
+    },
+    "origin": {
+      "locality": "Sandy Bay Valley",
+      "region": null,
+      "country": "St. Helena"
+    },
+    "roast_level": "Medium",
+    "agtron": "58/74",
+    "estimated_price": "£75.00/125 grams",
+    "review": {
+      "score": 91,
+      "review_date": "2025-07",
+      "aroma": 8,
+      "acidity": 8,
+      "body": 8,
+      "flavor": 9,
+      "aftertaste": 8,
+      "blind_assessment": "Citrus-toned, delicately floral. Lemon zest, elderflower, caramel, white pepper, walnut in aroma and cup. Sweetly bright structure with soft, balanced acidity; medium, silky-smooth mouthfeel. Finish leads with notes of lemon zest and walnut."
+    }
+  },
+  {
+    "coffee_name": "Hawai’i Monarch Kona Pacamara Natural Maceration",
+    "roaster": {
+      "name": "Oliver's Custom Coffee",
+      "location": "Olympia, Washington"
+    },
+    "origin": {
+      "locality": "Holualoa, North Kona growing district",
+      "region": "Hawai’i Island",
+      "country": "Hawai’i"
+    },
+    "roast_level": "Medium-Light",
+    "agtron": "64/82",
+    "estimated_price": "$40.00/6 ounces",
+    "review": {
+      "score": 95,
+      "review_date": "2025-11",
+      "aroma": 9,
+      "acidity": 9,
+      "body": 9,
+      "flavor": 9,
+      "aftertaste": 9,
+      "blind_assessment": "Expressive and fruit-driven. Pink grapefruit, lychee, white peach and magnolia, anchored by cocoa nib and sugarcane in aroma and cup. Acidity is briskly sweet-tart; mouthfeel is plush and silky. The aftertaste is complex and layered, carrying sweet florals and crisp cocoa into the resonant long."
+    }
+  },
+  {
+    "coffee_name": "Honduras Bryan Bautista",
+    "roaster": {
+      "name": "Branch Street Coffee Roasters",
+      "location": "Youngstown, Ohio"
+    },
+    "origin": {
+      "locality": "Musula, Marcala",
+      "region": "La Paz Department",
+      "country": "Honduras"
+    },
+    "roast_level": "Medium",
+    "agtron": "59/80",
+    "estimated_price": "$22.00/12 ounces",
+    "review": {
+      "score": 94,
+      "review_date": "2025-07",
+      "aroma": 9,
+      "acidity": 9,
+      "body": 9,
+      "flavor": 9,
+      "aftertaste": 8,
+      "blind_assessment": "Quietly confident, deep-toned. Wildflower honey, dried apricot, tangerine zest, almond butter, cedar in aroma and cup. Balanced, gently bright acidity; round, viscous mouthfeel. Finish consolidates to notes of wildflower honey and almond butter."
+    }
+  }
+]
