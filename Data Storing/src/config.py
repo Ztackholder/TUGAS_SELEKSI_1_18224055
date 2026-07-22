@@ -1,8 +1,10 @@
 """Konfigurasi koneksi PostgreSQL dan lokasi file proyek."""
 
-import os
 from pathlib import Path
+import os
+from dotenv import load_dotenv
 
+load_dotenv()
 
 HOST = os.getenv("POSTGRES_HOST", "localhost")
 PORT = int(os.getenv("POSTGRES_PORT", "5432"))
