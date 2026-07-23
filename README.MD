@@ -9,9 +9,8 @@
 
 ## Author
 
-| NIM | Nama |
-|:---:|------|
-| **18224055** | **Adrian Akhdan Assyauqi** |
+**Nama** : Adrian Akhdan Assyauqi  
+**NIM** : 18224055
 
 
 ## Deskripsi
@@ -309,6 +308,43 @@ untuk menjaga konsistensi data pada database.
 
 ![Specific](<Data Storing/screenshots/05_Select_Specific.png>)
 
+## Bonus: Query Optimization
+
+### 1. Menghindari `SELECT *`
+
+#### Before
+![](Data%20Storing/Screenshots/query_optimization_1_before.png)
+
+#### After
+![](Data%20Storing/Screenshots/query_optimization_1_after.png)
+
+**Penjelasan**
+
+Query awal menggunakan SELECT * sehingga seluruh kolom dari tabel coffee dan review diambil. Setelah dioptimasi, query hanya mengambil kolom yang diperlukan, yaitu coffee_name dan score. Hal ini mengurangi jumlah data yang diproses sehingga waktu eksekusi menjadi lebih cepat.
+
+### 2. Menggunakan Explicit `JOIN`
+
+#### Before
+![](Data%20Storing/Screenshots/query_optimization_2_before.png)
+
+#### After
+![](Data%20Storing/Screenshots/query_optimization_2_after.png)
+
+**Penjelasan**
+
+Query awal menggunakan implicit join dengan kondisi relasi pada klausa WHERE. Setelah dioptimasi, query menggunakan JOIN ... ON sehingga hubungan antar tabel menjadi lebih jelas. Selain meningkatkan keterbacaan, penggunaan explicit JOIN juga mengurangi risiko terjadinya Cartesian Product akibat kondisi join yang terlewat.
+
+### 3. Mengubah Subquery menjadi `JOIN`
+
+#### Before
+![](Data%20Storing/Screenshots/query_optimization_3_before.png)
+
+#### After
+![](Data%20Storing/Screenshots/query_optimization_3_after.png) 
+
+**Penjelasan**
+
+Query awal menggunakan subquery untuk memperoleh data dari tabel roaster. Setelah dioptimasi, query ditulis menggunakan JOIN sehingga hubungan antar tabel lebih jelas dan struktur query menjadi lebih sederhana. Pada PostgreSQL, kedua query menghasilkan execution plan yang hampir sama, namun penggunaan JOIN lebih mudah dipahami dan dipelihara.
 
 ## Referensi
 
@@ -355,7 +391,7 @@ Beberapa bagian yang tetap dikerjakan secara mandiri meliputi:
 
 Penggunaan AI membantu mempercepat proses pengembangan, terutama pada tahap implementasi kode dan debugging. AI juga memberikan referensi mengenai penggunaan library serta membantu menjelaskan error yang muncul selama proses pengerjaan.
 
-Meskipun demikian, seluruh keputusan terkait desain basis data, penentuan relasi antar entitas, normalisasi, serta validasi hasil implementasi tetap dilakukan secara mandiri. Dengan demikian, AI berperan sebagai alat bantu untuk meningkatkan efisiensi pengerjaan, bukan sebagai pengganti proses analisis dan perancangan yang dilakukan oleh saya sendiri.
+Meskipun demikian, seluruh keputusan terkait desain basis data, penentuan relasi antar entitas, normalisasi, serta validasi hasil implementasi tetap dilakukan secara mandiri. Dengan demikian, AI berperan sebagai alat bantu untuk meningkatkan efisiensi pengerjaan, bukan sebagai pengganti proses analisis dan perancangan yang dilakukan.
 
 ---
 
