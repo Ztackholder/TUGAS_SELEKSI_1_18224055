@@ -313,10 +313,10 @@ untuk menjaga konsistensi data pada database.
 ### 1. Menghindari `SELECT *`
 
 #### Before
-![](Data%20Storing/Screenshots/query_optimization_1_before.png)
+![](<Query Optimasi/query_optimization_1_before.png>)
 
 #### After
-![](Data%20Storing/Screenshots/query_optimization_1_after.png)
+![](<Query Optimasi/query_optimization_1_after.png>)
 
 **Penjelasan**
 
@@ -325,10 +325,10 @@ Query awal menggunakan SELECT * sehingga seluruh kolom dari tabel coffee dan rev
 ### 2. Menggunakan Explicit `JOIN`
 
 #### Before
-![](Data%20Storing/Screenshots/query_optimization_2_before.png)
+![](<Query Optimasi/query_optimization_2_before.png>)
 
 #### After
-![](Data%20Storing/Screenshots/query_optimization_2_after.png)
+![](<Query Optimasi/query_optimization_2_after.png>)
 
 **Penjelasan**
 
@@ -337,10 +337,10 @@ Query awal menggunakan implicit join dengan kondisi relasi pada klausa WHERE. Se
 ### 3. Mengubah Subquery menjadi `JOIN`
 
 #### Before
-![](Data%20Storing/Screenshots/query_optimization_3_before.png)
+![](<Query Optimasi/query_optimization_3_before.png>)
 
 #### After
-![](Data%20Storing/Screenshots/query_optimization_3_after.png) 
+![](<Query Optimasi/query_optimization_3_after.png>) 
 
 **Penjelasan**
 
